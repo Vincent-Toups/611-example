@@ -1,5 +1,6 @@
 Example Git Project
 ===================
 
-Hi there.
+Hello there.
 
+This is a change to the README for the purposes of an example.
